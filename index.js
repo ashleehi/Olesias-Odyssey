@@ -169,13 +169,36 @@ const story = {
     ]
   },
   
-  example: {
+  example23: {
     text: "She decided to turn and look for the path but she got lost. She was lost in the trees and suddenly everything looked the same. She found a clearing and went to go mark her spots just to make sure she wasn't going in circles. She began to look for things to use as markers when a shadow fell over her. She was picked up by a dragon and never to be seen again.",
     choices: [
       ["end","She got Eaten. The End."]
     ]
   },
+
+  example24: {
+    text: "She gripped the sword in her hand preparing to fight off anything that blew her way. She went back to the place where Ajax had run off from and as she got closer she couldn't find a thing. She stood there out of breath when a shadow washed over her. A big, black, deep blood red, scaly, scary dragon was watching her from above. What should she do now?",
+    choices: [
+      ["example38","Fight It"],
+      ["example39","Run Away"]
+    ]
+  },
+
+  example25: {
+    text: "If something could have scared him that much he died she couldn't fathom what it could possibly be. She decided to take the sword and run off as fast as she could. SHe ran straight past Ajax about half a mile when all of a sudden she came across the same boulder and dead Ajax beneath it. 'How could this possibly be' she muttered to herself. She went to lay next to the boulder and rest when she heard frogs croaking. AT Ajax's feet were to frogs that seemed to be holding hands and cutting mushrooms. Suddenly not the oddest thing she had seen all day. She looked at the stars and saw 2 really big stars and suddenly she remembered... What should she do now?",
+    choices: [
+      ["example40","Kiss Ajax"],
+      ["example41","Kill Herself"]
+    ]
+  },
   
+  example: {
+    text: "This was it. Her princess and the frog moment except it was between a village girl and some sheep looking man. She kissed Ajax and her vision fell blurry. She collapsed. When she woke up she was in a huge room on a big fluffy alaskan king sized bed. She got up and all of a sudden she was dressed in a white puffy gown. Confused, she waklked around admiring all the gold accents around the room. She decided to go out the door and out there waiting for her. A beautiful wedding. She was too busy admiring everything she didn't realize she had walked down the aisle halfway and a group of odd mythicsl creatures had been staring at her lovingly. She snapped back in to reality and noticed at the end of the aisle was a very handsome man waiting there for her. She had never seen him before in her life but she didn't mind getting married. 'Do you, Olessia of Albran Village take Ajax, prince of Saldonia to be your lawfully wedded husband?",
+    choices: [
+      ["example","YES"],
+      ["example","no..."]
+    ]
+  },
 
   // example: {
   //   text: "",
